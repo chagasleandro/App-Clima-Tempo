@@ -5,7 +5,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="https://github.com/chagasleandro" target="_blank">Author</a>&#xa0; | &#xa0
-  <a href="https://disney-plus-clone-chi.vercel.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
+  <a href="#" target="_blank" rel="noopener noreferrer">Projeto</a>
 </p>
 
 <br>
@@ -45,7 +45,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/chagasleandro/PlantsWebsite.git
+$ git clone https://github.com/chagasleandro/App-Clima-Tempo.git
 # Access
-$ cd PlantsWebsite
-# The server will initialize in the <http://127.0.0.1:5500/index.html>
+$ cd App-Clima-Tempo
+# The server will initialize in the <http://localhost:19007>
